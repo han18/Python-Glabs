@@ -24,3 +24,4 @@ print(network({"Domain Name Server":"8.8.8.8", "Gateway Server":"192.168.1.1", "
 # The IP address of the Gateway Server server is 192.168.1.1
 # The IP address of the Print Server server is 192.168.1.33
 # The IP address of the Mail Server server is 192.168.1.190
+
